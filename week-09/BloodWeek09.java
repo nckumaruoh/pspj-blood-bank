@@ -1,0 +1,1 @@
+public class BloodWeek09 { static class Unit {String group;int quantity;Unit(String group,int quantity){this.group=group;this.quantity=quantity;}} public static void main(String[]args){System.out.println(new Unit("O-",2).group);} }

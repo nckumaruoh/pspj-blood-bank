@@ -1,0 +1,5 @@
+Issue O- x2: true
+Issue B+ x4: false
+O- 2 unit(s)
+A+ 6 unit(s)
+B+ 2 unit(s)

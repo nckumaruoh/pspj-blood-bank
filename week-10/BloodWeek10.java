@@ -1,0 +1,1 @@
+public class BloodWeek10 { static int validate(int units){if(units<0)throw new IllegalArgumentException("Units cannot be negative");return units;}public static void main(String[]args){System.out.println(validate(3));} }

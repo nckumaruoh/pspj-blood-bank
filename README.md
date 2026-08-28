@@ -20,3 +20,13 @@ A PSPJ Java console application built in visible weekly increments. This reposit
 ## Weekly submission rule
 
 Each week must be committed separately after compilation and a captured console-output check. Submit the GitHub commit link, source files, and a short output screenshot.
+
+## Final release
+
+The Week 12 program adds group-wise stock, validates issue requests and prints remaining inventory.
+
+```powershell
+cd week-12
+javac BloodBank.java
+java BloodBank
+```
