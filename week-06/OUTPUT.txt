@@ -1,0 +1,3 @@
+Lookup B+: 2 units
+Highest stock: A+ (6 units)
+Groups tracked: 3
