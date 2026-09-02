@@ -1,6 +1,6 @@
 # Blood Bank Inventory and Donor Matcher
 
-A PSPJ Java console application built in visible weekly increments. This repository contains the project brief, weekly targets, runnable source as it is completed, and verification evidence.
+A PSPJ Java console application built in visible weekly increments. This repository contains the project brief, weekly targets, runnable source, output proof, verification evidence and final documentation.
 
 ## Twelve-week PSPJ execution plan
 
@@ -19,14 +19,18 @@ A PSPJ Java console application built in visible weekly increments. This reposit
 
 ## Weekly submission rule
 
-Each week must be committed separately after compilation and a captured console-output check. Submit the GitHub commit link, source files, and a short output screenshot.
+Each week is committed separately after compilation and an output check. Submit the GitHub commit link, source files, procedure, trace and output evidence.
 
 ## Final release
 
-The Week 12 program adds group-wise stock, validates issue requests and prints remaining inventory.
+The Week 12 program models a same-group inventory teaching scenario, validates issue requests, prints remaining inventory and reports low-stock groups using streams.
 
 ```powershell
 cd week-12
 javac BloodBank.java
 java BloodBank
 ```
+
+> This repository is an academic programming exercise. It is not clinical matching guidance or clinical decision support.
+
+See [`docs/FINAL_DOCUMENTATION.md`](docs/FINAL_DOCUMENTATION.md) for the delivery map, execution evidence and final-release checks.

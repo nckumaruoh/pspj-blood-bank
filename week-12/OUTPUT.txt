@@ -1,0 +1,7 @@
+BLOOD BANK INVENTORY & DONOR MATCHER - FINAL RELEASE
+Issue O- x2: approved
+Issue B+ x4: rejected
+O- 2 unit(s)
+A+ 6 unit(s)
+B+ 2 unit(s)
+Low-stock groups: O-, B+
