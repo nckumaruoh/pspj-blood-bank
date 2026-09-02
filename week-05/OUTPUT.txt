@@ -1,0 +1,3 @@
+O- request x2: approved; remaining 2
+O- stock label: low stock
+B+ request x4: held; remaining 2
