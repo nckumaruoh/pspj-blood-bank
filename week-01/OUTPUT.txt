@@ -1,0 +1,4 @@
+=== Blood Bank Inventory & Donor Matcher ===
+Sample donor: Ravi Kumar (O+)
+Available O+ units: 6
+Next: validate blood requests in Week 2.
