@@ -1,0 +1,4 @@
+Added O- x4.
+Issued O- x2; remaining 2.
+Rejected issue: units must be positive.
+O- stock: 2 units
