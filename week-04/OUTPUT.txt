@@ -1,0 +1,7 @@
+=== BLOOD BANK MENU ===
+1. Add stock
+2. Issue same-group request
+3. Report inventory
+Request O- x2: approved; remaining 2
+Request B+ x4: held; available 2
+Requests processed: 2
