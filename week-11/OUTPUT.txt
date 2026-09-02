@@ -1,0 +1,3 @@
+Saved 3 inventory rows to blood-inventory.csv
+Loaded groups: 3
+Total stored units: 12
